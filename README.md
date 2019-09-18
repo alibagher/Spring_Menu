@@ -1,6 +1,6 @@
-# WiFiestaExam
+# Backend practice
 
-I have used the technologies requested and used the Composite Design Pattern to store the menus. This was done so that it is possible to traverse the menus recursively (which I have done to check that items exist and to sum up the prices).
+I have used the Composite Design Pattern to store the menus. This was done so that it is possible to traverse the menus recursively (which I have done to check that items exist and to sum up the prices).
 
 I used Postman (an API development product) to test and run the spring REST API. 
 
